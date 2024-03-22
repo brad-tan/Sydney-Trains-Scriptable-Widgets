@@ -2,6 +2,11 @@
 
 This Scriptable widget provides real-time train departure information for Green Square (to City) and St James (to Airport) stations in Sydney, Australia. It dynamically determines the closest station to your current location and displays upcoming departures tailored to that station.
 
+<img width="277" alt="St James Example" src="https://github.com/brad-tan/Sydney-Trains-Scriptable-Widgets/assets/105221827/5a1b4d09-2ca1-477f-8c36-1539b27ee5d3">
+<img width="288" alt="Green Square Example" src="https://github.com/brad-tan/Sydney-Trains-Scriptable-Widgets/assets/105221827/e2c2aa53-0ed7-4fc3-99d6-7fd95bf5e0ab">
+
+
+
 **Features:**
 
 * **Dynamic Station Selection:** Automatically detects the closest station (Green Square or St James) based on your location.
