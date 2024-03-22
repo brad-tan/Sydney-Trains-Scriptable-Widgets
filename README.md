@@ -1,4 +1,4 @@
-# Scriptable Train Widget
+# Scriptable Sydney Trains Departures Widget
 
 This Scriptable widget provides real-time train departure information for Green Square (to City) and St James (to Airport) stations in Sydney, Australia. It dynamically determines the closest station to your current location and displays upcoming departures tailored to that station.
 
